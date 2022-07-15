@@ -1,0 +1,35 @@
+body {
+    background-color: aqua;
+}
+
+main {
+    display: inline;
+}
+
+div {
+    background-color: greenyellow;
+    width: 40%;
+    padding-left: 50px;
+    border: 2px solid blue;
+}
+
+h1 {
+    color: blue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+img {
+    height: 250px;
+    width: 250px;
+    margin: 20px;
+    border: 2px solid black;
+}
+
+li {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+}
+
+ul {
+    list-style: none;
+}
